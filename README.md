@@ -28,6 +28,11 @@ public class A{
 </pre>
 
 ***
-[google](https://www.google.com,"google link")
+## 뉴질랜드
+![Image1](https://github.com/user-attachments/assets/1823a11d-05f3-4e78-acb6-220eee7581dd)
+## 호주
+![Image2](https://github.com/user-attachments/assets/1f59a0d8-3d18-4b2f-aadf-cb011638adfb)
 
-![Image](https://github.com/user-attachments/assets/1823a11d-05f3-4e78-acb6-220eee7581dd)
+
+
+
