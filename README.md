@@ -23,10 +23,10 @@
 <code>
 public class A{
     public static void main(){
-    }
 }
 </code>
 </pre>
+
 ***
 [google](https://www.google.com,"google link")
 
